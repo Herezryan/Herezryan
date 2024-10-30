@@ -6,5 +6,5 @@
 ## Technologies
 
 ## Stats
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=herezryan&show_icons=true&theme=synthwave)
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=herezryan&show_icons=true&theme=synthwave)</br>
 ![Ryan's Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herezryan&layout=compact&theme=synthwave)
